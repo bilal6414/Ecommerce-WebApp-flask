@@ -23,8 +23,6 @@ This project is a simple e-commerce web application built as part of a class ass
 2. Install dependencies:
 ```bash
   pip install -r requirements.txt
-
-
 3. Run the Flask app:
   ```bash
     python app.py
